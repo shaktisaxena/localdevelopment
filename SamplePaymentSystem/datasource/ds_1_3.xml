@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bank xmlns="http://www.example.org/bankDB" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/bankDB ../../src/SC12Project/Milestone1/Payment/bankDB.xsd">
+    <account>
+        <accountID>accone</accountID>
+        <amount>997</amount>
+    </account>
+    <account>
+        <accountID>acctwo</accountID>
+        <amount>503</amount>
+    </account>
+    <account>
+        <accountID>accthree</accountID>
+        <amount>100</amount>
+    </account>
+    <account>
+        <accountID>accfour</accountID>
+        <amount>0</amount>
+    </account>
+</bank>

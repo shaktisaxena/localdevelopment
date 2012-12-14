@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<war:warehouse xmlns:war="http://www.example.org/warehouse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/warehouse ../../src/SC12Project/Milestone1/Warehouse/WarehouseDB.xsd" >
+  <war:items>
+    <war:item>
+      <war:resourceID>residone</war:resourceID>
+      <war:amount>3</war:amount>
+    </war:item>
+    <war:item>
+      <war:resourceID>residtwo</war:resourceID>
+      <war:amount>10</war:amount>
+    </war:item>
+  </war:items>
+  <war:holdingReques>
+    <war:request>
+      <war:requestID>reqidone</war:requestID>
+      <war:item>
+        <war:resourceID>residone</war:resourceID>
+        <war:amount>3</war:amount>
+      </war:item>
+    </war:request>
+    <war:request>
+      <war:requestID>regidtwo</war:requestID>
+      <war:item>
+        <war:resourceID>residtwo</war:resourceID>
+        <war:amount>3</war:amount>
+      </war:item>
+    </war:request>
+    <war:request>
+      <war:requestID>regidthree</war:requestID>
+      <war:item>
+        <war:resourceID>residtwo</war:resourceID>
+        <war:amount>8</war:amount>
+      </war:item>
+    </war:request>
+  </war:holdingReques>
+</war:warehouse>

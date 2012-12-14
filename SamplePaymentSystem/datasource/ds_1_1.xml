@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:category xmlns:tns="http://www.example.org/BookCategoryDB" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/BookCategoryDB ../../src/SC12Project/Milestone1/BookStore/BookCategoryDB.xsd ">
+  <tns:book>
+    <tns:title>Joy of Clojure: Thinking the Clojure Way</tns:title>
+    <tns:resourceID>2f74d0e7-44cc-4f59-9b3f-548dd1d5d422</tns:resourceID>
+    <tns:ISBN13>978-1935182641</tns:ISBN13>
+    <tns:ISBN10>1935182641</tns:ISBN10>
+    <tns:authors>
+      <tns:author>Michael Fogus</tns:author>
+      <tns:author>Chris Houser</tns:author>
+    </tns:authors>
+    <tns:pageNum>328</tns:pageNum>
+    <tns:publisher>Manning</tns:publisher>
+    <tns:publishdate>28.03.2011</tns:publishdate>
+    <tns:version>1</tns:version>
+    <tns:price>32.95</tns:price>
+  </tns:book>
+  <tns:book>
+    <tns:title>Real World Haskell</tns:title>
+    <tns:resourceID>fb9b5119-7fac-4e00-907e-2a958ae72774</tns:resourceID>
+    <tns:ISBN13>978-0596514983</tns:ISBN13>
+    <tns:ISBN10>0596514980</tns:ISBN10>
+    <tns:authors>
+      <tns:author>Bryan O'Sullivan</tns:author>
+      <tns:author>Donald Bruce Stewart</tns:author>
+      <tns:author>John Goerzen</tns:author>
+    </tns:authors>
+    <tns:pageNum>710</tns:pageNum>
+    <tns:publisher> O'Reilly</tns:publisher>
+    <tns:publishdate>01.01.2009</tns:publishdate>
+    <tns:version>2</tns:version>
+    <tns:price>31.95</tns:price>
+  </tns:book>
+  <tns:book>
+    <tns:title>The Haskell School of Expression: Learning Functional Programming through Multimedia</tns:title>
+    <tns:resourceID>134f6625-3c63-417d-aa9b-2080a19d7838</tns:resourceID>
+    <tns:ISBN13>978-0521644082</tns:ISBN13>
+    <tns:ISBN10>0521644089</tns:ISBN10>
+    <tns:authors>
+      <tns:author>Paul Hudak</tns:author>
+    </tns:authors>
+    <tns:pageNum>710</tns:pageNum>
+    <tns:publisher>Cambridge University Press</tns:publisher>
+    <tns:publishdate>27.04.2000</tns:publishdate>
+    <tns:version>2</tns:version>
+    <tns:price>36.95</tns:price>
+  </tns:book>  
+  <tns:book>
+    <tns:title>Expert F# 3.0</tns:title>
+    <tns:resourceID>6834713d-0065-47e4-9947-e37e5b081e2c</tns:resourceID>
+    <tns:ISBN13>978-1430246503</tns:ISBN13>
+    <tns:ISBN10>1430246502</tns:ISBN10>
+    <tns:authors>
+      <tns:author>Don Syme</tns:author>
+    </tns:authors>
+    <tns:pageNum>624</tns:pageNum>
+    <tns:publisher>Apress</tns:publisher>
+    <tns:publishdate>31.10.2012</tns:publishdate>
+    <tns:version>2</tns:version>
+    <tns:price>57.09</tns:price>
+  </tns:book>
+</tns:category>

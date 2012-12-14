@@ -1,0 +1,23 @@
+<weat:weathers xmlns:weat="http://www.example.org/WeatherDB">
+  <!--1 or more repetitions:-->
+  <weat:weather>
+    <weat:date>
+      <weat:year>2012</weat:year>
+      <weat:month>11</weat:month>
+      <weat:date>15</weat:date>
+    </weat:date>
+    <weat:location>Vienna</weat:location>
+    <weat:description>rainy</weat:description>
+    <weat:temperature>12.3</weat:temperature>
+  </weat:weather>
+  <weat:weather>
+    <weat:date>
+      <weat:year>2012</weat:year>
+      <weat:month>11</weat:month>
+      <weat:date>15</weat:date>
+    </weat:date>
+    <weat:location>Munich</weat:location>
+    <weat:description>rainy</weat:description>
+    <weat:temperature>10.3</weat:temperature>
+  </weat:weather>
+</weat:weathers>
